@@ -1,0 +1,2 @@
+# For Milvus vector DB (self-hosted)
+pymilvus>=2.4.0
